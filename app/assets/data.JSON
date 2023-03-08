@@ -1,0 +1,20 @@
+{
+  "workouts": {
+    "Bicep Curl": {
+      "tags": ["Gym", "Freeweight"],
+      "description": "",
+      "primaryMuscles": ["Bicep"],
+      "secondaryMuscles": [],
+      "workType": ["Contraction"],
+      "helpVideo": ""
+    },
+    "Seated Dips": {
+      "tags": ["Calisthenics"],
+      "description": "",
+      "primaryMuscles": ["Bicep"],
+      "secondaryMuscles": [],
+      "workType": ["Contraction"],
+      "helpVideo": ""
+    }
+  }
+}
